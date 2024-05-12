@@ -1,5 +1,15 @@
 # Deteksi Objek dengan YOLOv4
 
+**Project ini siap digunakan**. Dapat diunduh dengan perintah:
+
+```sh
+git clone https://github.com/andrewmanuelt/eksperimen_yolov4.git
+```
+
+kemudian silahkan rename file **backup_annotations.txt** dalam folder **dataset/main** menjadi **_annotations.txt**, juga **backup_classes.txt** menjadi **_classes.txt** 
+
+**Berikut ini untuk proses inisialisasi project**
+
 Tutorial dapat diakses [di sini](https://neptune.ai/blog/object-detection-with-yolo-hands-on-tutorial)
 Original project dapat di clone via GitHub [di sini](https://github.com/taipingeric/yolo-v4-tf.keras)
 Dataset dapat diunduh [di sini](https://public.roboflow.com/object-detection/bccd)
